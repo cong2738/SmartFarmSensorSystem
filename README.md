@@ -41,6 +41,11 @@
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/13095d2c-959b-49a8-a8f9-895cfe7360eb" /></br>  
 
 _ _ _ _ _ _
+
+### APB Interface
+
+<img width="500" height="auto" alt="image" src="APB _INTERFACE.png" /></br>  
+
 ### APB Protocol
 - CPU는 모든 PP를 메모리로서 인식하며 패리패럴의 선택은 매모리맵을 이용 주소로 구분, 모든 신호의 구조(프로토콜)은 동일
 
