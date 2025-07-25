@@ -58,7 +58,7 @@ _ _ _ _ _ _
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/c80013ca-ebad-4594-8bb0-34ab33777bad" /></br>  
 
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/3180242c-d0ed-4234-b367-6528570d9b1d" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/3180242c-d0ed-4234-b367-6528570d9b1d" /></br>  
 
 _ _ _ _ _ _
 
@@ -79,6 +79,6 @@ _ _ _ _ _ _
 
 ## video  
 click!--></br>
-![동작 영상](./doc/image34.gif)</br>
-![동작 영상](./doc/image35.gif)</br>
-![동작 영상](./doc/image36.gif)</br>
+<img width="500" height="auto" alt="image" src="image34.gif" /></br>  
+<img width="500" height="auto" alt="image" src="image35.gif" /></br>  
+<img width="500" height="auto" alt="image" src="image36.gif" /></br>  
